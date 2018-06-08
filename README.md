@@ -1,6 +1,6 @@
-# simpleCalc (c)
+# simpleCalc (c) :sunglasses:
 
-Simple calculator, made in few hours, using *power* of **JQUERY**. 
+Simple, not refactored calculator, made in few hours, using *power* of **JQUERY**. 
 
 
 
